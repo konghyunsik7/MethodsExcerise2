@@ -1,0 +1,15 @@
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\bin\Debug\net6.0\MethodsExcerise2.exe
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\bin\Debug\net6.0\MethodsExcerise2.deps.json
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\bin\Debug\net6.0\MethodsExcerise2.runtimeconfig.json
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\bin\Debug\net6.0\MethodsExcerise2.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\bin\Debug\net6.0\MethodsExcerise2.pdb
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.csproj.AssemblyReference.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.AssemblyInfoInputs.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.AssemblyInfo.cs
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.csproj.CoreCompileInputs.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\refint\MethodsExcerise2.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.pdb
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\MethodsExcerise2.genruntimeconfig.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\MethodsExcerise2\MethodsExcerise2\obj\Debug\net6.0\ref\MethodsExcerise2.dll
